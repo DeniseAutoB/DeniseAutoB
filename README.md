@@ -1,22 +1,28 @@
-# Hi, I'm DeniseB👋
+# Hi, I'm Denise 👋
 
-Accounting and Finance Operations professional (8+ years) moving into **GTM Automation Engineering**. I'm building in public: Clay, n8n, Cold Email Systems, and Deliverability.
+I spent 8+ years in Accounting and Finance Operations (A/R, A/P, Payroll, Month-End Close) and I'm moving into **GTM Engineering**. I'm building in public: Prospecting, Deliverability, Cold Email, Automation, and the Data Work underneath them.
 
-## What I'm building
-- **Prospect list in Clay:** 38 US marketing agencies narrowed to 10 verified contacts, with openers I fact-checked against each company's site
-- **Email Deliverability:** SPF, DKIM, and DMARC set up and tested on a separate sending domain
-- **Cold Email Sequences:** two 3-email variants with hypotheses and a test plan
-- **n8n Streak Tracker:** a workflow that checks my GitHub every night, logs my streak to a Google Sheet, and posts to Slack
+I'm looking for an **Entry-Level or Junior GTM Engineering or RevOps role, remote.**
 
-## Where to find the work
-- 📂 Builds and write-ups: [gtm-automation-portfolio](https://github.com/DeniseAutoB/gtm-automation-portfolio)
-- 🌐 Portfolio site: [https://gtm-engineer-portfolio.replit.app](https://denisebautomationships.site/))
+## What I've built
+A sprint of six builds, all on fake, sample, or public data. Nothing was sent to a real prospect.
+
+| Build | What it shows |
+|---|---|
+| [Clay prospect list](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/clay) | 38 companies → 10 contacts with verified emails and fact-checked openers |
+| [Deliverability setup](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/deliverability) | SPF, DKIM, and DMARC passing on a separate sending domain |
+| [Cold email sequences](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/campaigns) | Two 3-email variants with hypotheses and a test plan |
+| [Instantly campaigns](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/campaigns) | Both variants built; one test-sent to my own inboxes, with headers and unsubscribe confirmed |
+| [n8n workflows](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/n8n-workflows) | A lead becomes a HubSpot contact, a reply triggers a Slack alert |
+| [Python tools](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/scripts) | A lead CSV cleaner and a scraper that checks robots.txt first |
+
+## Where to look
+- 📂 All builds and write-ups: [gtm-automation-portfolio](https://github.com/DeniseAutoB/gtm-automation-portfolio)
+- 🌐 Portfolio site: [gtm-engineer-portfolio.replit.app](https://gtm-engineer-portfolio.replit.app)
 - 💼 LinkedIn: [linkedin.com/in/deniseb7](https://www.linkedin.com/in/deniseb7)
 
-## Tools I'm working with
-Clay · n8n · HubSpot · Zoho Mail · Namecheap DNS · Google Sheets · Slack · GitHub
+## Tools I've used
+Clay · Instantly · n8n · HubSpot · Slack · Google Workspace · Namecheap DNS · Python · GitHub
 
 ## How I work
-I came from Finance, so I care about clean data, documented processes, and numbers that reconcile. Every build here has a README that says what I made, what broke, and what I'd improve. Anything built on sample data is labeled.
-
-I'm looking for an entry-level GTM engineering or RevOps role, remote.
+Every build has a README that covers what I made, what broke, the limits, and what I'd improve. I label sample data as sample data, I fact-checked AI-written output before keeping it, and I write down what I didn't prove. I used Claude as a coach and pair programmer, and I ran, tested, and documented everything myself.
