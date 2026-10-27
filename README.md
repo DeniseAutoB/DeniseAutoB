@@ -9,12 +9,12 @@ A sprint of six builds, all on fake, sample, or public data. Nothing was sent to
 
 | Build | What it shows |
 |---|---|
-| [Clay prospect list](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/clay) | 38 companies → 10 contacts with verified emails and fact-checked openers |
-| [Deliverability setup](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/deliverability) | SPF, DKIM, and DMARC passing on a separate sending domain |
-| [Cold email sequences](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/campaigns) | Two 3-email variants with hypotheses and a test plan |
-| [Instantly campaigns](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/campaigns) | Both variants built; one test-sent to my own inboxes, with headers and unsubscribe confirmed |
-| [n8n workflows](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/n8n-workflows) | A lead becomes a HubSpot contact, a reply triggers a Slack alert |
-| [Python tools](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/scripts) | A lead CSV cleaner and a scraper that checks robots.txt first |
+| [Clay Prospect List](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/clay) | 38 companies → 10 contacts with verified emails and fact-checked openers |
+| [Deliverability Setup](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/deliverability) | SPF, DKIM, and DMARC passing on a separate sending domain |
+| [Cold Email Sequences](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/campaigns) | Two 3-email variants with hypotheses and a test plan |
+| [Instantly Campaigns](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/campaigns) | Both variants built; one test-sent to my own inboxes, with headers and unsubscribe confirmed |
+| [n8n Workflows](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/n8n-workflows) | A lead becomes a HubSpot contact, a reply triggers a Slack alert |
+| [Python Tools](https://github.com/DeniseAutoB/gtm-automation-portfolio/tree/main/scripts) | A lead CSV cleaner and a scraper that checks robots.txt first |
 
 ## Where to look
 - 📂 All builds and write-ups: [gtm-automation-portfolio](https://github.com/DeniseAutoB/gtm-automation-portfolio)
